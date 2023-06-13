@@ -10,7 +10,6 @@ Below are the instruction for running the "eda.ipynb" notebook.
 3. Run jupyter lab: <br>
     $ jupyter lab --ip=0.0.0.0 --port=8888 --allow-root --no-browser
 
-4. Navigate to the eda.ipynb file from your browser using the below url: <br>
-    http://127.0.0.1:8888/lab/tree/eda/eda.ipynb
+4. Follow the second link in the "Or copy and paste one of these URLs:" list as seen in the terminal after Step 3.
 
 5. Select your desired kernel.
